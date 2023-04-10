@@ -1,7 +1,7 @@
 from datetime import datetime
 
 from app import app
-from models import db, Message
+from models import db, Scientist, Planet, Mission
 
 # class TestMessage:
 #     '''Message model in models.py'''
